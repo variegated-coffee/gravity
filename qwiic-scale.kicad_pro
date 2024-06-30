@@ -459,10 +459,11 @@
       "EXCITATION3": "PWR_DIST",
       "EXCITATION4": "PWR_DIST",
       "GND": "PWR_DIST",
+      "Net-(D2-A)": "PWR_DIST",
+      "Net-(D2-K)": "PWR_DIST",
       "Net-(U1-VREG_VOUT)": "LV_PWR_DIST",
-      "Net-(U3-SW)": "PWR_DIST",
       "QWIIC_VIN": "PWR_DIST",
-      "RP2040_USB_VBUS": "PWR_DIST"
+      "RP2040_USB_VBUS": "LV_PWR_DIST"
     },
     "netclass_patterns": []
   },
