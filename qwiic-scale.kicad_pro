@@ -463,7 +463,7 @@
       "Net-(D2-K)": "PWR_DIST",
       "Net-(U1-VREG_VOUT)": "LV_PWR_DIST",
       "QWIIC_VIN": "PWR_DIST",
-      "RP2040_USB_VBUS": "LV_PWR_DIST"
+      "RP2040_USB_VBUS": "PWR_DIST"
     },
     "netclass_patterns": []
   },
