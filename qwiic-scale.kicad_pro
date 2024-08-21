@@ -454,10 +454,6 @@
     "net_colors": null,
     "netclass_assignments": {
       "AVCC": "PWR_DIST",
-      "EXCITATION1": "PWR_DIST",
-      "EXCITATION2": "PWR_DIST",
-      "EXCITATION3": "PWR_DIST",
-      "EXCITATION4": "PWR_DIST",
       "GND": "PWR_DIST",
       "Net-(D2-A)": "PWR_DIST",
       "Net-(D2-K)": "PWR_DIST",
