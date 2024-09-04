@@ -453,13 +453,16 @@
     },
     "net_colors": null,
     "netclass_assignments": {
+      "+5VA": "PWR_DIST",
       "AVCC": "PWR_DIST",
       "GND": "PWR_DIST",
+      "NAU7802_1_AVDD": "PWR_DIST",
+      "NAU7802_2_AVDD": "PWR_DIST",
       "Net-(D2-A)": "PWR_DIST",
       "Net-(D2-K)": "PWR_DIST",
       "Net-(U1-VREG_VOUT)": "LV_PWR_DIST",
       "QWIIC_VIN": "PWR_DIST",
-      "RP2040_USB_VBUS": "PWR_DIST"
+      "RP2040_USB_VBUS": "LV_PWR_DIST"
     },
     "netclass_patterns": []
   },
