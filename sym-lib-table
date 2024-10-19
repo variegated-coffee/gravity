@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "NAU7802")(type "KiCad")(uri "${KIPRJMOD}/ul_NAU7802SGI/KiCADv6/2024-08-21_09-49-24.kicad_sym")(options "")(descr ""))
   (lib (name "ADM7170ACPZ-1.8-R7")(type "KiCad")(uri "${KIPRJMOD}/ADM7170ACPZ-1/ADM7170ACPZ-1.8-R7.kicad_sym")(options "")(descr ""))
+  (lib (name "BM03B-SRSS-TB_LF__SN_")(type "KiCad")(uri "${KIPRJMOD}/BM03B-SRSS-TB_LF__SN_/2024-09-20_11-21-36.kicad_sym")(options "")(descr ""))
 )

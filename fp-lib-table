@@ -7,4 +7,5 @@
   (lib (name "BM04B-SRSS-TB_LF__SN_")(type "KiCad")(uri "${KIPRJMOD}/BM04B-SRSS-TB_LF__SN_")(options "")(descr ""))
   (lib (name "SM04B-SRSS-TB_LF__SN_")(type "KiCad")(uri "${KIPRJMOD}/SM04B-SRSS-TB_LF__SN_")(options "")(descr ""))
   (lib (name "ADM7170ACPZ-1")(type "KiCad")(uri "${KIPRJMOD}/ADM7170ACPZ-1")(options "")(descr ""))
+  (lib (name "BM03B-SRSS-TB_LF__SN_")(type "KiCad")(uri "${KIPRJMOD}/BM03B-SRSS-TB_LF__SN_/footprints.pretty")(options "")(descr ""))
 )
