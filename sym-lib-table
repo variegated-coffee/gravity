@@ -5,4 +5,5 @@
   (lib (name "BM03B-SRSS-TB_LF__SN_")(type "KiCad")(uri "${KIPRJMOD}/BM03B-SRSS-TB_LF__SN_/2024-09-20_11-21-36.kicad_sym")(options "")(descr ""))
   (lib (name "GL850G")(type "KiCad")(uri "${KIPRJMOD}/GL850G/GL850G.kicad_sym")(options "")(descr ""))
   (lib (name "LTC4316CMS_PBF")(type "KiCad")(uri "${KIPRJMOD}/LTC4316CMS_PBF/LTC4316CMS_PBF.kicad_sym")(options "")(descr ""))
+  (lib (name "TLV75733PDBVR")(type "KiCad")(uri "${KIPRJMOD}/TLV75733PDBVR/TLV75733PDBVR.kicad_sym")(options "")(descr ""))
 )

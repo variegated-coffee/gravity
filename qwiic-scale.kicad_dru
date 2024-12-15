@@ -69,16 +69,16 @@
 	(condition "A.Type == 'pad' && A.Fabrication_Property == 'Castellated pad'"))
 
 # clearance
-(rule "hole to hole clearance (different nets)"
+(rule "hole to hole clearance (different nets, not vias)"
 	(constraint hole_to_hole (min 0.5mm))
-	(condition "A.Net != B.Net"))
+	(condition "A.Net != B.Net && !(A.Type == 'via' && A.Type == 'via')"))
 
 (rule "via to track clearance"
-	(constraint hole_clearance (min 0.254mm))
+	(constraint hole_clearance (min 0.2mm))
 	(condition "A.Type == 'via' && B.Type == 'track'"))
 
 (rule "via to via clearance (same nets)"
-	(constraint hole_to_hole (min 0.254mm))
+	(constraint hole_to_hole (min 0.2mm))
 	(condition "A.Type == 'via' && B.Type == A.Type && A.Net == B.Net"))
 
 (rule "pad to pad clearance (with hole, different nets)"
